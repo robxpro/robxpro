@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and Python
 - 🌱 I’m currently learning AWS/Automation/Python Jupyter
 - 💞️ I’m looking to collaborate on AWS
-- 📫 How to reach me rivalry.gg@gmail.com
+- 📫 How to reach me at rivalry.gg@gmail.com
 
 <!---
 robxpro/robxpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
